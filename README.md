@@ -18,11 +18,18 @@
 [image8]: ./images/Image8.png "Image 8"
 
 
-**2048 Abstract**
+## Abstract
 
 The purpose of the assignment is to recreate the famous game 2048 in C++.
 
-**Report**
+## Course Description 
+
+"The aim of the course is to introduce the basic principles of software engineering and basic practice in program design and implementation.
+Students will be able to design a relatively complex computer application, and implement it using development environments in the target language (C++). Students will acquire the necessary competence to undertake other coursework or laboratory exercises that requires computer programming. Students will become familiar with software design, programming concepts, and tool use: these are all transferable skills relevant to whatever programming language/environment students encounter."
+[[EE1-07-Software Engineering 1: Introduction to Computing](http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=EE1-07&s=I1)]
+
+
+## Report
 
 “2048” Assignment Overview/Basic Idea
 
