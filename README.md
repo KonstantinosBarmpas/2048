@@ -1,6 +1,8 @@
 # **2048**
 
-## Assignment for "Software Engineering" at Imperial College London department of Electrical and Electronic Engineering.
+## Project for "Software Engineering" at Imperial College London Department of Electrical and Electronic Engineering.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -16,11 +18,11 @@
 [image8]: ./images/Image8.png "Image 8"
 
 
-**2048**
+**2048 Abstract**
 
 The purpose of the assignment is to recreate the famous game 2048 in C++.
 
-Report:
+**Report**
 
 “2048” Assignment Overview/Basic Idea
 
